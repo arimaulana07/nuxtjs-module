@@ -1,6 +1,6 @@
 {
   "name": "my-module-foobar",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "My new Nuxt module",
   "repository": "https://github.com/arimaulana07/nuxtjs-module",
   "license": "MIT",
@@ -29,7 +29,8 @@
   },
   "dependencies": {
     "@nuxt/kit": "^3.8.2",
-    "@pinia/nuxt": "^0.5.1"
+    "@pinia/nuxt": "^0.5.1",
+    "pinia": "^2.1.7"
   },
   "devDependencies": {
     "@nuxt/devtools": "latest",

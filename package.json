@@ -1,6 +1,6 @@
 {
   "name": "my-module-foobar",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "My new Nuxt module",
   "repository": "https://github.com/arimaulana07/nuxtjs-module",
   "license": "MIT",
